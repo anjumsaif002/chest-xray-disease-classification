@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Datasets & Archives (Do NOT commit raw datasets to GitHub)
+data/
+datasets/
+lung_cancer_dataset/
+*.zip
+*.tar.gz
+*.7z
+
+# Model weights & checkpoints (>100MB exceeds GitHub push limits)
+*.keras
+*.h5
+*.ckpt
+*.pt
+*.pth
+checkpoints/
+saved_models/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
