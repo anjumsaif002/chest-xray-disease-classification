@@ -177,5 +177,5 @@ python train.py --data_dir data --epochs 15 --batch_size 32
 ---
 
 ## 👤 Author
-- **Sara & Anjum**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- **Anjum**
+- GitHub: [@YOUR_USERNAME](https://github.com/anjumsaif002)
